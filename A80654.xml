@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The danger vvherein the kingdome of England now standeth; and the remedy for the present safety thereof. With the proposations drawne for sure defense of the same, and the annoying of all the wicked adversaries. Worthy to be read of all them that wish well to the prosperity of all true hearted English-men. But more specially for all merchants and sea-men whatsoever.</title>
+            <author>Cotton, Robert, Sir, 1571-1631.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80654</idno>
+            <idno type="STC">Wing C6487A</idno>
+            <idno type="STC">Thomason E100_15</idno>
+            <idno type="EEBO-CITATION">99859215</idno>
+            <idno type="PROQUEST">99859215</idno>
+            <idno type="VID">155863</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80654)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155863)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 18:E100[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The danger vvherein the kingdome of England now standeth; and the remedy for the present safety thereof. With the proposations drawne for sure defense of the same, and the annoying of all the wicked adversaries. Worthy to be read of all them that wish well to the prosperity of all true hearted English-men. But more specially for all merchants and sea-men whatsoever.</title>
+                  <author>Cotton, Robert, Sir, 1571-1631.</author>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Palmer,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Robert Cotton--Cf. BLC.</note>
+                  <note>Signatures: A⁴ B² .</note>
+                  <note>Annotation on Thomason copy: "May. 2d:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155863:1" rendition="simple:additions"/>
+            <p>THE DANGER VVherein the Kingdome of England now ſtandeth; AND The Remedy for the preſent ſafety thereof.</p>
+            <p>WITH The propoſitions drawne for ſure defence of the ſame, and the annoying of all the wicked Adverſaries.</p>
+            <p>WORTHY To be read of all them that wiſh well to the proſperity of all true hearted Engliſh-men.</p>
+            <p>BVT More ſpecially for all Merchants and Sea-men whatſoever.</p>
+            <p>LONDON. Printed for <hi>Richard Palmer,</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:155863:2"/>
+            <pb facs="tcp:155863:2"/>
+            <head>The danger wherein the Kingdome of England ſtandeth: And the Remedie.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S ſoone as the Houſe of Auſtria had incorporated it ſelfe with Spaine, and by their new diſcoveries had gotten themſelves the wealth of the Indies, they began to affect and have purſued a fifth Monarchy.</p>
+            <p>The Emperour <hi>Charles</hi> who laid the foundations, ought in Italy by ſurpriſing Rome be from this he was thruſt by force and reſpect of Religion, <hi>H.</hi> 8. being made <hi>caput foeder<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> againſt him, he then attempted it in High Germany, practiſing by fa<g ref="char:EOLhyphen"/>ction and force to reduce thoſe petty States to his abſolute power, this <hi>H.</hi> 8. againe prevented him by tying the Lutheran Princes under his confederacy and aſſiſtance: his ſon the ſecond <hi>Philip</hi> purſued the ſame ambition in the Netherlands of Germany, by reduction whereof hee intended to make his way further into the other: this the late Queen of England interrupted by ſiding with the afflicted people on the one part<g ref="char:punc">▪</g> and making her ſelfe that head of the Proteſtant League, the Prin<g ref="char:EOLhyphen"/>ces and others drawne in as a ſecret of State, the countenance of France to give reputation and aſſiſtance to them, and ſecurity to it ſelfe. Spain ſeeing his hopes thus fruitleſſe by thoſe unions and ſtrength, began firſt to breake if he may the unity of France and England, but finding the common danger to be a faſt tye, he raiſeth up a party in that kingdome of his Crowne, by which the French King was diſtreſſed, that had not the Engliſh Councell and aſſiſtance releeved him<g ref="char:punc">▪</g> Spaine had then re<g ref="char:EOLhyphen"/>moved that great &amp; next obſtacle of his ambition: his Councell now tels him from theſe examples, that the way to this great worke is im<g ref="char:EOLhyphen"/>paſſible, ſo long as England lay in let in his way, and that the remove of that matter be the firſt of his intents: theſe drew on thoſe ſecret practices often againſt the Queene, and his open fury in 88. which
+<pb facs="tcp:155863:3"/>
+they following the advice of her free Councell would never after ad<g ref="char:EOLhyphen"/>mit of peace, winning thereby the hearts of her loving people, and ever found hands and money at home, and helping ſecretly her Allian<g ref="char:EOLhyphen"/>ces abroad, ſecuring to her confederates all her time freedome from feare of Spaniſh ſlavery, and ſo ended her old and happy dayes in glo<g ref="char:EOLhyphen"/>ry: Spaine then by the wiſedome and power of that great Lady diſpoi<g ref="char:EOLhyphen"/>led, ſole of his meanes to hurt, though not of his deſires, makes up witſt her peacefull Succeſſor of happy memory, that golden League, that diſarming us at home by opinion of ſecurity, and giving them a power in our Councell, by beleeving their friendſhip and pretended marriage, gave them a way to cheriſh among us a party of their owne, and bereft us of power abroad to lead us into jealouſie, and ſow diſſen<g ref="char:EOLhyphen"/>tion betweene us and our Confederates, by which wee ſee they have ſwallowed up the fortune of our Mrs. brother, the reſt of the Imperi<g ref="char:EOLhyphen"/>all States diſtreſſed, the King of Denmarke by that quarrell diverted, the Swedens aſsiſtance by the warres with the Poland, and moving them now with the offer of the Daniſh Crowne, and whether from the plot or our fatality, it hath caſt ſuch a bone betwixt France and us, as made themſelves by our quarrell of Religion, a faſt confederate un<g ref="char:EOLhyphen"/>to us, a dangerous enemy, ſo that now we have left no aſſurance againſt their malice and ambition: but the Netherlands where the tye of mu<g ref="char:EOLhyphen"/>tuall ſafety is weakened by daily diſcontents, bred and fed betweene us by ſome ill affected by both our ſecurities, that from the doubtful<g ref="char:EOLhyphen"/>neſſe of friendſhip as we now ſtand, we may rather ſuſpect from our domeſticke actions, if they grow too furious they will rather follow the example of Rome in her growing, that felt it equall, honourable, and more eaſie, <hi>dare Regem quam ſubjugare provinciam,</hi> conſidering the power they have in their hands, then to give any friendly aſsiſtance to ſerve the private condition of our State, you may therefore ſee in what termes we ſtand abroad, and I feare me at home, for reſiſtance in no better ſtate, there muſt be to withſtand a forraigne invaſion, a pro<g ref="char:EOLhyphen"/>portion both of Sea and Land forces, for to give an enemy an eaſie paſ<g ref="char:EOLhyphen"/>ſage and a port to releeve him in<g ref="char:punc">▪</g> is no leſſe then to hazard all at one ſhocke. It is to be conſidered that no march by Land can be of that ſpeed to make head againſt the landing of an enemy, nor no ſuch pro<g ref="char:EOLhyphen"/>viſion as to be maſter of the Sea: to this point of neceſsity there can be no leſſe then 240000. pounds for the Land force, if it were of an
+<pb facs="tcp:155863:3"/>
+offenſive warre, the men of leſſe livelihood were the beſt ſpared, and were uſed formerly to make ſuch war <hi>purgamento Reipub:</hi> if we made no further purchaſe by it: but for the ſafety of a Commonwealth, the wiſedome of all times did never intereſt the publique cauſe to any o<g ref="char:EOLhyphen"/>ther then ſuch as had a portion in the publique adventure, and that we had in 88. when the care of the Queene and of the Councell did make the body of that large Army, no other then of trai<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed bands, which with the Auxiliars of this Realme amounteth to no leſſe then 24000 men: neither were any of thoſe drawne forth of their Coun<g ref="char:EOLhyphen"/>tries and proper habitations before the end of May, that there may be no long agrievance to the publique ſuch diſcontentments being given to<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>, a more fataller enemy then any forraigne forces, the carefull di<g ref="char:EOLhyphen"/>ſtribution and direction of the Sea and Land forces being more fitting for a Counſell of Warre, then a private man to adviſe of, (I paſſe over) yet willing when I ſhall be called humbly to offer up ſuch obſervations as I form<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rly gathered by the former like occaſion in this Realme, to make up this preparation, there is requiſite two things, money and af<g ref="char:EOLhyphen"/>fection for they cannot be ſevered. It was well and wiſely ſaid of that great Chancellor Lord <hi>Burleigh,</hi> in the like caſe, to the late Queene, winne hearts and you have their hands and purſes. And I finde that of late diffidence hath beene a defect in the one it hath unhappily pro<g ref="char:EOLhyphen"/>duced the other, in gathering then of money for this preſent need there are requiſite three things, ſpeed, aſſurance, and ſatisfaction, and the way to gather as others in the like caſes have done much by the path which hath beene formerly called <hi>Via Regia,</hi> being more ſound and ſpeedy, for by unknowne and untroden wayes it is both rougher and more tedious, and ſeldome ſucceedeth, this laſt way although it take place as it were by a ſupply at firſt and receive no generall deniall: yet ſince it hath drawne many to conſult with themſelves and others in the conſequence, and now I conceive preſſure on their liberties and againſt Law, I much feare that if now againe it be offered, either in the fame forme or by privy Seale, it will be refuſed wholly, neither finde I the reſtraint of theſe refuſaly have produced any other effect then a ſtiffe reſolution in them and others to forbeare: beſides, although it went at firſt with your aſſurance, yet when we conſider the commiſſi<g ref="char:EOLhyphen"/>ons and other formes incident to ſuch like ſervices as that though long it hangs in hand, the many delayes that were, wee may eaſily ſee that
+<pb facs="tcp:155863:4"/>
+ſuch a ſumme by Parliament granted is farre ſooner and more eaſily gathered, if any will marke the ſucceſſion of times to produce inevi<g ref="char:EOLhyphen"/>table neceſſity to enforce, if it be denyed either in generall by excuſe of impoſitions, or in particular of ſome ſelect perſons, which is the cuſtomes of ſome Countreyes, and ſo conclude it for the King, as for the publique State, <hi>ſumma Regal.</hi> he muſt looke for this to be told him, that ſeeing neceſſity muſt conclude alwayes to gather money, as leſſe ſpeedy or aſſured then that ſo practiſed, which cannot be fitter then by Parliament, the ſucceſſe attendeth the humour of the headleſſe multi<g ref="char:EOLhyphen"/>tude, that are full of jealouſie and diſtruſt, and ſo unlike to comply to any unlawfull courſe of levy but by force, which if uſed, the effect is fearfull, and hath beene fatall to the States, whereas the Parliament reſteth principally, or the Regall perſon who may with eaſe and ſafety mould them to his fit deſires, by a gracious yeelding to their juſt pe<g ref="char:EOLhyphen"/>titions: if a Parliament then be the fitteſt and moſt ſpeedieſt aſſurance and a ſafe way, it is fit to conceive what is the beſt way to act and worke.</p>
+            <p>Firſt, for the time of the uſuall Summons, reputed to be forty daies, be too large for this preſent neceſſity, it may bee by dating the Writ leſſened ſince it is no politique Law, ſo that a care might bee had that there may be a County day after the Sheriffe hath received the Writ before the time of ſitting, if then the ſumme to be levied bee one a<g ref="char:EOLhyphen"/>greed of for the time, there may bee in the body of the Grant an Aſ<g ref="char:EOLhyphen"/>ſignment made to the Knights of every County reſpectively, who un<g ref="char:EOLhyphen"/>der ſuch aſſurance may ſafely give ſecurity proportionable to the receits of ſuch as ſhall advance in preſent for the publique ſervice any ſummes of money.</p>
+            <p>The laſt and weightleſt conſideration, if a Parliament be thought fit, is how to remove or comply the differences betweene the King and Subjects in their mutuall demands: and what I have learned among the reſt of the multitude, I will freely declare, that your Lordſhips may be the more enabled to remove and anſwer thoſe diſtruſts that ei<g ref="char:EOLhyphen"/>ther concerne Religion, publique ſafety of the K. and State, or the juſt liberty of the Commonwealth: for Religion is a matter that they ſay neareſt to their conſciencs, and they are led by this ground of jea<g ref="char:EOLhyphen"/>louſie to doubt ſome practice againſt it: firſt for that againſt the Spaniſh match which was broken by the gratefull induſtry of my Lord of <hi>Buc<g ref="char:EOLhyphen"/>kingham,</hi>
+               <pb facs="tcp:155863:4"/>
+out of his religious care, as hee there declared, that the Ar<g ref="char:EOLhyphen"/>ticles there demanded might lead ſome ſuch ſufferance as might indan<g ref="char:EOLhyphen"/>ger the quiet, if not the ſtate of the Reformed Religion here, yet there have (when he was an actor principally in the conditions of France) as hard, if not worſe to the preſervation of our Religion paſſed, then thoſe with Spaine, and the ſuſpect is ſtrengthned by the cloſe keeping of the agreements in that point there concluded, it is no leſſe an argu<g ref="char:EOLhyphen"/>ment of doubt to them of his affections, in that his mother and many other his miniſters of neare employments about him, are ſo much af<g ref="char:EOLhyphen"/>fected, they talke much of advancing men popiſhly devoted, ſome pla<g ref="char:EOLhyphen"/>ced in the Campe of neareſt ſervice and chiefeſt command, and that the Recuſants have got theſe late yeares by his power more of courage and aſſurance then before; if to cleare theſe doubts which perhaps are worſe in fancy then in truth he take a courſe it might much advance the publique ſervice againſt the Spaniſh humour, that have more of violent paſſion then ſetled judgement, and are not the leaſt of the op<g ref="char:EOLhyphen"/>poſite number in the Commonwealth.</p>
+            <p n="2">2. The next is the misfortune and loſſes of men and munition in all our late undertakings abroad, which the intemperate ſpirits impute to want of counſell and the more ſublime wils to practice.</p>
+            <p n="3">Thirdly, they began with the Palatinate, and lay the fault of the loſſe there on the imputed credit of <hi>G<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndemore,</hi> diſtruſting him for the <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>aying of ſupply to Sir <hi>Horace Vere,</hi> when Colonell <hi>Cicil</hi> was caſt on that imployment, by which the King of Spaine is become the maſter of the Kings childrens intelligence; and when Count <hi>Mansfield</hi> had a royall ſupply of forces to aſſiſt the Princes of our part for the recove<g ref="char:EOLhyphen"/>ry thereof, either plot or error defeated the enterpriſe for us, for Spains advantage.</p>
+            <p n="4">Fourthly, that Sir <hi>Robert Mansfields</hi> expedition to Argiers ſhould purchaſe onely ſecurity and guard of the Spaniſh coaſts.</p>
+            <p n="5">Fifthly, to ſpend ſo many thouſand pounds in Ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es voyage againſt the advice of the Parliament, onely to warne the king of Spaine to be in a readineſſe, and ſo weaken our ſelves, is taken for ſuch a ſigne of ill affection to him amongſt the multitude.</p>
+            <p n="6">Sixth<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, the ſending of ſo much munition and victuals and mon<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y in my Lord <hi>VVillowbies</hi> journey, is conceived an unthrifty error in the director of it to diſarme our ſelves in fruitleſſe voyages made, to ſome
+<pb facs="tcp:155863:5"/>
+over curious ſeemes a plot of a danger to turne off our quarrell of Spain, an ancient enemy, that the Parliament petitioned and gave ſupply to ſupport upon our ally of France, and ſo after a new and happy tie gave much talke that we were not ſo doubtfull of Spaine as many wiſhed, ſince it was held not long agoe a fundamentall rule of their and our ſecurity by the Lord <hi>Burleigh,</hi> that nothing can prevent the Spaniſh Monarchy, but a faſtneſſe of the two Princes to make head againſt his ambition, and we ſee by this diſunion a fearfull defeat hath happened to Denmarke and that party, to the advantage of the Auſtrian family.</p>
+            <p>And thus far of the waſts of the publique treaſure in fruitleſſe expe<g ref="char:EOLhyphen"/>ditions, an important cauſe to hinder any new ſupply in Parliament.</p>
+            <p>Next another feare that may diſturbe the ſmooth and ſpeedy paſſage of the kings deſignes in Parliament is the late waſte of the Kings live<g ref="char:EOLhyphen"/>lihood, whereby is like, as in former times, to raiſe this jealouſie and feare, that when he hath not of his owne to ſupport his ordinary ex<g ref="char:EOLhyphen"/>pence, for which the lands of the Crowne were ſetled unalterable, and called <hi>Sacrae patrimonium Principis,</hi> that then he muſt of neceſſity reſt to thoſe aſſiſtances of the people which ever were aſſigned for the be<g ref="char:EOLhyphen"/>nefit of Commonwealth, from hence it is like there will be no great labour and ſtiffeneſſe to endue his Majeſty to an act of reſumption, ſince ſuch deſires of the State have found an eaſie way in the will of all Princes from the third <hi>Henry</hi> to the laſt: but that which is like to paſſe the deeper into their diſputes and care, is the late preſſure they ſuppoſe to have beene do<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> upon a publique liberty and freedome of the ſubject commanding their goods without aſſent by Parliament confining their perſons without ſpeciall cauſe declared, and that made good againſt them by the Judges lately, and pretending a writ com<g ref="char:EOLhyphen"/>manding their attendance in forraigne war, all which they are like to enforce as repugnant to maine poſitive Lawes and cuſtomary immuni<g ref="char:EOLhyphen"/>ties of this Commonwealth and theſe dangerous diſtruſts of the people are not a little improved by this unexampled courſe, as they conceive, of retaining any Land Army in winter ſeaſon, when former times of greateſt feare produced no ſuch, and makes them in their diſtracted feare to conjecture idlely, it was raiſed more to ſubject their fortunes to the will of power, then of Law, and ſo make good ſome former breach upon their liberties at home, then defend us from any force a<g ref="char:EOLhyphen"/>broad, how far ſuch jealouſies if they meet with any uſuall diſorders of
+<pb facs="tcp:155863:5"/>
+lawleſſe ſouldiers, or an apt-diſtemper of the looſe and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eady multitude which will eaſily turne away upon any occaſion in the State that they conſider whats to a glorious pretence of Religion and publiqu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſafety, when the true end will be onely rapine of the rich, and the ruine of all, is worthy a provident and preventing care.</p>
+            <p>I have thus far delivered with what freedome you were pleaſed to admit ſuch difficulties as I have taken up among the multitude, which may arreſt if not remove impediments to any ſpeedy ſupply of Parlia<g ref="char:EOLhyphen"/>ment at this time, which how to facilitate may better become the care of your Lordſhips judgements, then my ignorance, onely I could wiſh to remove away a perſonall diſtruſt of my Lord of <hi>Buckingham</hi> among the people, he might be pleaſed if there be a neceſſity of Parliament to appeare an adviſor thereunto.</p>
+            <p>And what ſatisfaction it ſhall pleaſe his Majeſty of grace to give at ſuch time to his people, which I could wiſh to be grounded by preſi<g ref="char:EOLhyphen"/>dent of his beſt and moſt fortunate Progenitors, and which I conceive will largely ſatisfie the deſires and hopes of all, if it may appeare in ſome ſort to be drawne downe from time to the people by the zealous care and induſtry that my Lord of <hi>Buckingham</hi> hath to the publique unity and content of which there is no doubt but he may remaine not onely ſecure, but merit a happy memory amongſt them of a Realmes Patriot for to expiate the paſſions of the people at ſuch times with ſacrifice of any of his Majeſties ſervants, I have ever found, as <hi>Ed</hi> 2. <hi>R.</hi> 1. <hi>H.</hi> 6. no leſſe fatall to them after, then to the miniſter in the end.</p>
+         </div>
+         <div type="part">
+            <head>Propoſitions drawne for ſure defence of the kingdome, and the annoy<g ref="char:EOLhyphen"/>ance of the enemy of the ſame.</head>
+            <p n="1">
+               <hi>1</hi> THat every Shire in England ſhould be enjoyned to ſet forth at the charge of the County one ſhip well manned and victualled for ſeven moneths, and to be of the burthen of <hi>500. 400.</hi> or <hi>300. 200. 40.</hi> Tunnes at the leaſt, according to the ability of the Shire, in the opinion of the State.</p>
+            <p n="2">2. Th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> every Port or Sea Towne according to the ability enjoyned to doe the like, London may well furniſh out <hi>10.</hi> Briſtol <hi>3.</hi> and the reſt accor<g ref="char:EOLhyphen"/>ding
+<pb facs="tcp:155863:6"/>
+to their ability; and ſuch of the Sea Townes as are not of ability to ſet out Ships of the burthen aforeſaid, to furniſh out Pinnaces of <hi>60.</hi> or <hi>80.</hi> Tuns for light horſemen or Intelligencers.</p>
+            <p n="3">
+               <hi>3.</hi> Thoſe Ships will ariſe to about <hi>80.</hi> ſayle, and to be divided into foure ſquadrons, adjoyning to every ſquadron one of the Kings-Ships for their Admirall.</p>
+            <p n="4">
+               <hi>4.</hi> The firſt ſquadron to lye off and on the weſterne Ilands, and as high as Ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arde for Braſil men, the Caracke, the Plate Fleet, and all other tra<g ref="char:EOLhyphen"/>ding that way.</p>
+            <p n="5">
+               <hi>5.</hi> The ſecond ſquadron to lye-off the Southerne Cape, and ſo low as the Groyne, for here ſuch ſhipping as ſhall goe out of Spaine or Portugal, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f occaſion be to joyne with the former ſquadron.</p>
+            <p n="6">
+               <hi>6.</hi> The third ſquadron to lye betweene the Groyne and the mouth of the Sleeve, or Silley, to ſtop ſuch ſhipping as trade in thoſe costs.</p>
+            <p n="7">
+               <hi>7.</hi> The fourth ſquadron to keepe the narrow Seas, awe the Dunkirker, take all the French trade, and ſo northward, and this ſquadron to bee ſtill releeved with freſh Ships, as the other ſhall grow foule, or come unto any miſchance, ſo that the ſquadron may continually keepe the moſt part of the yeare.</p>
+            <p n="8">
+               <hi>8.</hi> That no maſter of any of thoſe Ships be owners, or have any part in her that he goeth out master of, for they will bee unwilling to bring their ſhips into any ſight or danger, and uſe many trickes and devices, eſpecially if there be any ignorant Captaine, therefore it is expedient likewiſe that every Shire ſhall nominate a Captaine for the Ship it furniſheth out, for the avoiding of ignorant and inſufficient Captaines.</p>
+            <p n="9">
+               <hi>9.</hi> That in London, Portſmouth, or where elſe the State ſhall think fit, there be ſtore-houſes appointed for the receipt of ſuch priſes as ſhall be ta<g ref="char:EOLhyphen"/>ken by any of the foure ſquadrons.</p>
+            <p n="10">
+               <hi>10.</hi> That every County and Sea towne that furniſheth out the ſaid ſhip<g ref="char:EOLhyphen"/>ping, may nominate and have a Commiſsioner of their owne election that may have power in behalfe of the Counties and Sea-townes as the other Officers that ſhall be appointed for the King and the Lord Admirall for the opening of deckes of the prize, receiving the goods into the ſaid ſtore-houſe, and for the dividing and diſpoſing them accordingly.</p>
+            <p n="11">
+               <hi>11.</hi> That what prizes ſoever any of the foure ſquadrons ſhall take, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> brought unto the Fort Townes where thoſe ſtore-houſes are appointed, and the benefits of all prizes what ſquadron ſoever of the foure ſendeth them in
+<pb facs="tcp:155863:6"/>
+to be divided, the Kings part and the Lord Admirals being deducted to the ſeverall Counties and Sea Townes of the Kingdome of England accor<g ref="char:EOLhyphen"/>ding to the burthen of their ſhipping: and not particularly to ſuch Coun<g ref="char:EOLhyphen"/>ties or Sea Townes unto which the ſquadron of ſhips belongeth, that ſhall ſend in the ſaid priſes.</p>
+            <p n="12">
+               <hi>12.</hi> That it ſhall not be lawfull for any of the ſaid ſhips to breake bulkes or open the deckes of any priſes they take, but naile them downe faſt untill they be brought in at one of the port Townes and then the Officers for the King with the Comiſſioners for the Counties to open them.</p>
+            <p n="13">
+               <hi>13</hi> That after the Kings part and the Lord Admirall is ſe<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> with ſuch allowance over and above as ſhall bee proportionable for the Kings ſhipping, being Admirall, the reſt to be diſtributed as aforeſaid to the uſe and benefit of all the Counties and Sea Townes in generall, and not parti<g ref="char:EOLhyphen"/>cular to each Counties unto which any of the foure ſquadrons belongeth that ſends in the ſaid prizes, the pillage above decke onely excepted, which doth belong to the Officers, Saylers, and Souldiers of the ſquadron that tooke the ſaid prize.</p>
+            <p n="14">
+               <hi>14.</hi> That for the preſent and ſpeedy execution hereof, every County or Sea Towne that is not furniſhed with ſhipping, ſhall hire untill they can build them, which to be limited to performe within a certaine and conve<g ref="char:EOLhyphen"/>nient time.</p>
+            <p n="15">
+               <hi>15.</hi> The charge that will fall on the ſubjects well <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for the firſt yeare to <hi>200000.</hi> pounds, which God bleſsing them within the yeare theſe will re-imburſe, and by the benefit of the prizes afterwards they will have ſtocke ſufficient, with increaſe for new victualling and ſetting forth the ſhips the ſecond yeare, and ſo from time to time.</p>
+            <p n="16">
+               <hi>16.</hi> The kingdome will hereby increaſe their ſhipping, and breed and make good ſtore of good Sea men, and we ſhall hereby be masters of the ſea, ſo as our Merchants ſhall travell ſafely, and we ſhall much prejudice the French and Spaniſh Nations, or any other that are enemies, or not in league with us.</p>
+            <p>VVhereas I have ſet downe the full charge of theſe foure ſquadrons of ſhips for <hi>7.</hi> monthes to amount to the ſumme of <hi>200000</hi> pounds, it is not to be vnderſtood that the ſubiects ſhall disburſe ſo much more by two parts, for they ſhall need to lay out no more for ſetting out of their Ships, then for the well victualling of them, which will come but to a third part of this
+<pb facs="tcp:155863:7"/>
+former ſum <hi>66666.</hi> pounds for the Saylers, Officers, and Owners of the Ships will expect neither wages nor fraught untill the comming in of the Ships, (and God bleſsing our deſignes)</p>
+            <p>There may be taken in Shipping and Goods in <hi>7.</hi> months ſpace ten times that value, before one penny be distributed.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
